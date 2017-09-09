@@ -1,0 +1,20 @@
+{
+  "name": "addwidget",
+  "version": "1.0.0",
+  "description": "Add widget proof of concept",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --hot"
+  },
+  "author": "Ankit Mittal",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^15.6.1",
+    "react-bootstrap": "^0.31.1",
+    "react-dom": "^15.6.1",
+    "react-transition-group": "^1.2.0",
+    "webpack": "^3.3.0",
+    "webpack-dev-server": "^2.6.1",
+    "react-addons-css-transition-group": "^15.0.0"
+  }
+}

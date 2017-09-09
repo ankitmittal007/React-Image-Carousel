@@ -1,0 +1,80 @@
+.strategy-carousel-container{
+	height: 350px;
+	width: 750px;
+	margin: 0 auto;
+	}
+	#app {
+		background-color: #493194;
+		height: 800px;
+		width: 100%;
+	}
+/* .dragStyle
+{
+	height:100;
+	background-color:'#FF0000';
+	border : 1px solid black;
+}
+.header-container,.footer-container{
+	background-color: grey;
+	padding:15px;
+}
+.content{
+height:200px;
+border: 1px solid black;
+width:250px;
+}
+.content1, .content3{
+	float:left;
+	clear:left;
+	padding: 15px;
+	margin: 15px;
+}
+.content2{
+	float:left;
+	clear: right;
+	padding: 15px;
+	margin: 15px;
+}
+.footer-container{
+	clear: both;
+}
+.pull-right {
+	float: right;
+}
+
+.strategy-carousel-container {
+	width: 400px;
+	height: 300px;
+	margin: 0 auto;
+	border: 5px solid white;
+}
+	.carousel .carousel-footer{
+	display: none !important;
+} 
+.carousel .next, .carousel .prev{
+	border: none !important;
+	background-color: transparent !important;
+	top: 40% !important;
+}
+.carousel .carousel-main{
+	height: 100%;
+}
+.carousel .next:hover,.carousel .prev:hover {
+	background-color: transparent !important;
+	color: white;
+}
+.carousel .prev:before {
+	content: url(../images/u81.png);
+	right: 0px;
+
+}
+.carousel .next:before {
+	content: url(../images/u83.png);
+}
+.carousel .next {
+	right: -15px;
+}
+.carousel-main img{
+	height: 100%;
+	width:100%;
+} */
