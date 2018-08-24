@@ -25,7 +25,7 @@ class App extends React.Component {
    render() {
       return (
         <div className="strategy-carousel-container" >
-            
+           <div>Hiiiiiiiii</div> 
             <Carousel images={images} 
                         thumb={true}
                         loop={true}
